@@ -15,7 +15,7 @@
 ### [AZ GAME ROOM CREATION TOOL (Heroku hosted)](https://azim-gs.herokuapp.com/)
 ### [QUICK START GAME DEMO (Heroku hosted)](https://azim-gs.herokuapp.com/game/)
 
-### To join a room to play with friends head to https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>
+### To join a room to play with friends head to `https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>`
 
 ##### *HEROKU DEMO APP DISCLAIMER*
 `initializing a room with > 100 AI per room will directly impact server/client lag due to hardware limitations. try to keep it below 100.`
