@@ -9,7 +9,10 @@
 ### [AZ GAME ROOM CREATION TOOL (Heroku hosted app)](https://azim-gs.herokuapp.com/)
 ### [QUICK START GAME DEMO (Heroku hosted app)](https://azim-gs.herokuapp.com/game/)
 
-### To join a room to play with friends head to `https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>`
+#### query params
+* join a specific game room: `https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>`
+* quick create a game mode room: `https://azim-gs.herokuapp.com/game/?id=<GAME_MODE_ID>`
+  * GAME_MODE_ID => paint || eat
 
 ![GAME DEMO](https://i.imgur.com/o8QkHAt.png)
 ![GAME DEMO w/ REAL-TIME STATS](https://i.imgur.com/WFcnytL.png)
