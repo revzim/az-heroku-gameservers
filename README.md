@@ -39,6 +39,7 @@
 
 ##### *HEROKU DEMO APP DISCLAIMER*
 `initializing a room with > 100 AI per room will directly impact server/client lag due to hardware limitations. try to keep it below 100.`
+`ai(s) & player(s) have direct impact on network latency & client fps/latency`
 
 #### author: revzim
 
