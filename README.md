@@ -14,11 +14,11 @@
 * paint -> you will change the color of any npcs/objects you come in contact with
 
 ### HOW TO PLAY
-* use your fingers/mouse to tap/click/drag the camera to move your player in whichever direction the player is facing.
-* use the speed slider to adjust your speed.
-* tap the menu button to view real-time stats about the game room/world.
-* tap the play button to toggle auto play. Auto play will automatically attempt to complete the task(s) of the game mode.
-* every AI that joins will have auto play toggled on automatically.
+* use your fingers/mouse to tap/click/drag the camera to move your player in whichever direction the player is facing
+* use the speed slider to adjust your speed
+* tap the menu button to view real-time stats about the game room/world
+* tap the play button to toggle auto play. Auto play will automatically attempt to complete the task(s) of the game mode
+* every AI that joins will have auto play toggled on automatically
 
 #### QUERY PARAMS
 * join a specific game room: `https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>`
