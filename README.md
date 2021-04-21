@@ -19,7 +19,6 @@
 * tap the menu button to view real-time stats about the game room/world.
 * tap the play button to toggle auto play. Auto play will automatically attempt to complete the task(s) of the game mode.
 * every AI that joins will have auto play toggled on automatically.
-* [Album](https://imgur.com/a/xWM1H9N)
 
 #### QUERY PARAMS
 * join a specific game room: `https://azim-gs.herokuapp.com/game/?room_id=<ROOM_ID>`
